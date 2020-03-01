@@ -1,0 +1,273 @@
+.bg-dark{
+  background: #272f3a !important;
+
+}
+
+
+.slider{
+  background: url('../img/cover-1.jpg');
+  min-height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+.homeTheme{
+  position: relative;
+  padding-top: 80px;
+  padding-bottom: 120px;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+
+
+
+
+
+.countdown{
+  padding: 10px;
+  width: 100%;
+  height: auto;
+  background: #a85d87;
+  opacity: 0.8
+
+}
+
+.wrapper{
+  width: 100% !important;
+}
+
+#demo{
+
+  font-size: 20px;
+  margin: 0 auto;
+  display: block;
+
+}
+
+
+.contertb{
+width: 50%;
+color:#fff;
+}
+
+
+.come h2{
+font-size:60px;
+padding: 20% 20%;
+font-weight: 300;
+
+
+}
+
+.homeintro p{
+
+padding: 20% 10%;
+font-size: 20px;
+
+}
+
+.msgtxt{
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.bggray{
+  background:#a0b2bd;
+
+}
+
+.regiDiv{
+  padding-top: 80px;
+}
+
+.regleft{
+  border:1px solid #666;
+  height: auto;
+  margin: 10px;
+  padding: 10px;
+}
+.regright{
+  border:1px solid #666;
+  height: auto;
+    margin: 10px;
+      padding: 10px;
+}
+
+.formDiv{
+  margin: 20px;
+}
+
+footer{
+  /* background: #5e3b93; */
+  padding: 10px;
+}
+
+
+.footerinfo p{
+  padding: 0px;
+  margin: 0px;
+}
+
+.pimg{
+  width: 100%;
+  padding-left:50px;
+}
+
+.slogantxt{
+  font-size: 16px;
+  font-style: italic;
+  color: #393286;
+}
+
+.hometxt1{
+  font-size: 30px;
+  text-shadow: 2px 2px 4px #000000;
+}
+.hometxt2{
+  font-size: 25px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.block1{
+  padding-top: 80px !important;
+  padding-bottom: 120px !important;
+
+
+    background-color: #06283a;
+  background-position: center;
+  background-size: cover;
+}
+
+.footerDiv{
+  padding-top: 200px !important;
+  padding-bottom: 200px !important;
+  background: url('../img/srilanka-1.png');
+  /* background-color: #272f3a; */
+  background-position: center;
+  background-size: cover;
+}
+
+.contentbg{
+ 
+  background: url('../img/srilanka-1.png');
+  /* background-color: #272f3a; */
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  
+}
+
+
+.table thead{
+  background: #7b60a9;
+}
+
+.rowsep{
+  background: #fff;
+  height: 20px;
+}
+
+.content-wrapper{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.formDiv{
+  border: 1px solid #666;
+  padding: 20px;
+}
+
+
+.regiList li label{
+  width: 25%;
+}
+
+.divDate {
+    background: #06283a;
+    padding: 20px;
+}
+
+.addressDiv{
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+.profile{
+  padding: 10px;
+  width: 85%;
+}
+
+.profile h3{
+  font-size: 16px;
+  text-align: center;
+}
+.profile h4{
+  font-size: 14px;
+    text-align: center;
+}
+
+.profile img{
+  padding: 20px;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+  text-transform:uppercase;
+}
+
+.footer-top{
+  border-top:1px solid #666;
+}
+.bg-color, section.bg-color, section.call-to-action, #mainmenu li li a:hover, #mainmenu ul li:hover > a, .price-row, .slider-info .text1, .btn-primary, .bg-id-color, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, .dropcap, .fullwidthbanner-container a.btn, .feature-box-big-icon i, #testimonial-full, .icon-deco i, .feature-box-small-icon .border, .small-border, #jpreBar, .date-post, .team-list .small-border, .de-team-list .small-border, .btn-line:hover, a.btn-line:hover, .btn-line.hover, a.btn-line.hover, .owl-arrow span, .de-progress .progress-bar, #btn-close-x:hover, .box-fx .info, .btn-more, .widget .small-border, .product img:hover, #btn-search, .de_tab.timeline li.active .dot, .btn-id, .tiny-border, #back-to-top, #subheader .small-border-deco span, #services-list li a:hover, .timeline .tl-block .tl-line, .de_tab.tab_style_2 .de_nav li.active span, .de_tab.tab_steps.style-2 .de_nav li.active span, .feature-box-small-icon.style-2 .number.bg-color, a.btn-custom, .btn-custom, span.overlay, .owl-custom-nav .btn-next:before, .owl-custom-nav .btn-prev:before, .timeline > li > .timeline-badge, .de_light .de_tab.tab_style_3 .de_nav li.active span, .de_tab.tab_style_4 .de_nav li.active span, .circle, .social-icons-sm i:hover, .btn-rsvp, .btn-close, .pricing-s1 .ribbon, .de_tab.tab_style_4 .de_nav li.active, a.btn-fullwidth, .de_testi.opt-3 blockquote:before{
+  background:#a0218c;
+}
+#mainmenu a{
+  padding: 0 !important;
+}
+
+.msgpresidant{
+  width: 90%;
+}
+
+.msg{
+  padding-top:20px;
+
+}
+
+.img{
+  padding:0px 20px 20px 0px;
+}
+
+.mainDiv{
+  padding:30px;
+}
+
+.guidline li{
+  font-size: 14px;
+  color: #001e60;
+  font-weight: bold;
+  margin: 10px auto;
+  padding: 10px;
+  background: red;
+}
+
+.guidline a{
+  color: #fff;
+}
+
+.memberDiv{
+    border:1px solid #666;
+    
+}
+
+.divwdt{
+  width:250px;
+  float:left;
+  
+}
+
+.ygahome{
+  padding-bottom: 300px;;
+}
